@@ -28,56 +28,77 @@
 Name: Tanzil Ibn Alam
 
 Role:
-   Tech Lead @ CYRAPID IT Solutions
+  Tech Lead @ CYRAPID IT Solutions
 
 Experience:
   - Full Stack Development
-  - DevOps Engineering
   - Software Architecture
+  - DevOps Engineering
   - Cloud Infrastructure
-  - AI Automation
+  - Artificial Intelligence
+  - Machine Learning
+  - Mobile Application Development
+  - Enterprise SaaS Development
 
 Currently Working On:
-  - CYRAPID Cloud Clinic (Offline conversion)
-  - Premium POS (Mobile Friendly UI UX)
-  - React Native & Flutter based Apps
+  - CYRAPID Cloud Clinic (Offline Desktop Conversion)
+  - Premium POS+ (Modern Mobile first UI/UX)
+  - React Native & Flutter Applications
   - AI Powered Solutions
-  - Business Automation
+  - Workflow Automation
 
 Passionate About:
   - Clean Architecture
   - Scalable System Design
-  - DevOps practice
+  - DevOps
   - Automation
+  - Artificial Intelligence
 ```
+# 💡 Core Expertise
+
+- 🏥 Healthcare Software
+- 🍽 Restaurant & Retail POS
+- 🏢 Enterprise ERP
+- 📱 Cross-platform Mobile Apps
+- ☁️ DevOps & Cloud Infrastructure
+- 🤖 AI Automation & ML
+- 🔗 REST APIs & Integrations
+- 🏗 Multi-Tenant SaaS
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
+## 👨‍💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,js,ts,python,dart,kotlin,java,html,css"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=php,js,ts,python,java,dart,kotlin,c,cpp,html,css"/></p>
 
-### Frontend
+## 🎨 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,vite"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,vite,jquery"/></p>
 
-### Backend
+## ⚙️ Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,django,flask"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=laravel,nodejs,express,django,flask,spring"/></p>
 
-### Mobile
+## 📱 Mobile
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,flutter,kotlin"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=flutter,react,kotlin"/></p>
+
+**React Native • Expo • Android**
+
+## 🤖 AI / Machine Learning
+
+<p><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/></p>
+
+- OpenAI API
+- Claude API
+- LangChain
+- n8n
+- Computer Vision
+- OCR
+- Deep Learning
+- Prompt Engineering
 
 **React Native • Expo**
 
@@ -143,6 +164,37 @@ Passionate About:
 
 ---
 
+# 🚀 Products & Platforms
+
+## 🏥 CYRAPID Cloud Clinic
+Hospital / Diagnostic / Clinic Management SaaS with OPD, IPD, Pharmacy, Laboratory, Billing, Inventory, HRM, Patient & Doctor Portal.
+
+## 🍽️ Onion POS
+Restaurant Management & POS Billing Software.
+
+## 💼 Premium POS+
+Bookkeeping, Inventory, Accounting & Business Automation platform.
+
+## 🍴 Restro Pro
+Advanced Online/Offline Restaurant Management System.
+
+## 🛒 E-Shop Dokani
+Multi Vendor E-commerce Platform.
+
+## 👨‍💼 Hajira PRO
+Attendance Management & Reporting Software.
+
+## 📚 Karigor App
+AI-assisted BBAD Job Preparation Platform.
+
+## 🌐 MLM E-Commerce Management System
+Commission, Wallet, Referral & Product Management.
+
+## 💬 Modern Social Media+
+Real-time feed, messaging, notifications, groups and media sharing.
+
+---
+
 # 📈 GitHub Activity Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanzil-tasfir&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
@@ -174,18 +226,7 @@ Passionate About:
 
 # 💬 Ask Me About
 
-- Laravel
-- PHP
-- React Native
-- Node.js
-- DevOps
-- Docker
-- Nginx
-- REST APIs
-- Multi-Tenant SaaS
-- System Architecture
-- Database Design
-- AI Automation
+Laravel • PHP • Python • Java • Spring Boot • Node.js • Express • Django • Flask • React • Next.js • Vue • React Native • Flutter • Docker • Linux • Nginx • REST APIs • Multi-Tenant SaaS • System Architecture • AI • Machine Learning
 
 ---
 
